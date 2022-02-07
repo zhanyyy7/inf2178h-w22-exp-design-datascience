@@ -1,7 +1,6 @@
 ﻿*INF2178H: Experimental Design for Data Science		Winter 2022*
 
-###
-####### **INF2178H: Experimental Design for Data Science**
+# **INF2178H: Experimental Design for Data Science**
 
 **Syllabus**
 
@@ -235,5 +234,3 @@ Blackboard Collaborate will no longer be supporting these browsers effective Jul
 The University of Toronto has identified minimum technical requirements needed for students to access remote/online learning: <https://www.viceprovoststudents.utoronto.ca/covid-19/tech-requirements-online-learning/>    
 
 For other syllabus-related items specific to online/remote delivery see also: <https://teaching.utoronto.ca/teaching-support/course-design/developing-a-syllabus/>
-
-9/9
